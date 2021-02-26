@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: rgb(27, 207, 132);
+    font-size: 7vh;
+    font-weight: 100;
+}
+table{
+    border: 2vh black;
+}
+td{
+    padding: 20%;
+}
