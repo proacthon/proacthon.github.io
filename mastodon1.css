@@ -10,11 +10,15 @@ table {
   }
   
   td {
-    font-size: 1.5vh;
+    font-size: 1.7vh;
     padding-bottom: 2em;
   }
   
   img {
-    width: 45%;
+    width: 40%;
+    height: auto;
+  }
+  button{
+    width: 10%;
     height: auto;
   }
